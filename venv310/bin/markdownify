@@ -1,4 +1,4 @@
-#!/Users/shinjirominato/development/ThirdParty/markitdown/venv310/bin/python
+#!/Users/shinjirominato/development/tools/markitdown/venv310/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
